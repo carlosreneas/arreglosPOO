@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Votante()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Votante\r\n
+comment1.params=cedula\ nombre\ edad
+comment1.target=Votante(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCedula()
+comment2.text=Metodo\ de\ acceso\ a\ la\ propiedad\ cedula
+comment3.params=cedula
+comment3.target=void\ setCedula(java.lang.String)
+comment3.text=Metodo\ de\ modificaci\u00F3n\ a\ la\ propiedad\ cedula
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment4.text=Metodo\ de\ acceso\ a\ la\ propiedad\ nombre
+comment5.params=nombre
+comment5.target=void\ setNombre(java.lang.String)
+comment5.text=Metodo\ de\ modificaci\u00F3n\ a\ la\ propiedad\ nombre
+comment6.params=
+comment6.target=java.lang.String\ getEdad()
+comment6.text=Metodo\ de\ acceso\ a\ la\ propiedad\ edad
+comment7.params=edad
+comment7.target=void\ setEdad(java.lang.String)
+comment7.text=Metodo\ de\ modificaci\u00F3n\ a\ la\ propiedad\ edad
+numComments=8

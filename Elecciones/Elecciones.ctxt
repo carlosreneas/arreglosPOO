@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Elecciones()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Elecciones\r\n
+comment1.params=
+comment1.target=Candidato\ getC1()
+comment1.text=Metodo\ de\ acceso\ a\ la\ propiedad\ c1
+comment2.params=c1
+comment2.target=void\ setC1(Candidato)
+comment2.text=Metodo\ de\ modificaci\u00F3n\ a\ la\ propiedad\ c1
+comment3.params=
+comment3.target=Candidato\ getC2()
+comment3.text=Metodo\ de\ acceso\ a\ la\ propiedad\ c2
+comment4.params=c2
+comment4.target=void\ setC2(Candidato)
+comment4.text=Metodo\ de\ modificaci\u00F3n\ a\ la\ propiedad\ c2
+comment5.params=
+comment5.target=Candidato\ getC3()
+comment5.text=Metodo\ de\ acceso\ a\ la\ propiedad\ c3
+comment6.params=c3
+comment6.target=void\ setC3(Candidato)
+comment6.text=Metodo\ de\ modificaci\u00F3n\ a\ la\ propiedad\ c3
+numComments=7

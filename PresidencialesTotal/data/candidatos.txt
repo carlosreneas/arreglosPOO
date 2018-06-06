@@ -1,0 +1,10 @@
+Gustavo Petro,Colombia Humana,0,0,Petro
+Promotores Voto en Blanco,Partido Reivindicacion Etnica,176,0,Petro
+Ivan Duque,Partido Centro Democratico,350,0,Duque
+Humberto de la Calle,Coalision Partido Liberal Colombiano,522,0,Duque
+Jorge Antonio Trujillo,Todos Somos Colombia,0,166,Petro
+Sergio Fajardo,Coalicion Colombia,176,166,Duque
+Viviane Morales,Partido Somos,350,166,Petro
+Piedad Cordoba,Poder Ciudadano,522,166,Petro
+German Vargas Lleras,Mejor Vargas Lleras,0,332,Duque
+Voto en Blanco,Voto en Blanco,176,332,VotoenBlanco

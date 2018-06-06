@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=nombre\ partido\ x\ y\ imagen
+comment0.target=CandidatoBoton(java.lang.String,\ java.lang.String,\ java.lang.Integer,\ java.lang.Integer,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CandidatoBoton\r\n
+comment1.params=
+comment1.target=Candidato\ getCandidato()
+comment1.text=Metodo\ de\ acceso\ a\ la\ propiedad\ candidato
+comment2.params=candidato
+comment2.target=void\ setCandidato(Candidato)
+comment2.text=Metodo\ de\ modificaci\u00F3n\ a\ la\ propiedad\ candidato
+numComments=3

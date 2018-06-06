@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Numero()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Numero\r\n
+comment1.params=x
+comment1.target=Numero(java.lang.Integer)
+comment2.params=
+comment2.target=java.lang.String\ esPar()
+comment3.params=
+comment3.target=java.lang.String\ esPrimo()
+comment4.params=
+comment4.target=java.lang.String\ esHappy()
+comment5.params=n
+comment5.target=java.lang.Integer\ cuadrados(java.lang.Integer)
+comment6.params=
+comment6.target=java.lang.Integer\ getX()
+comment6.text=Metodo\ de\ acceso\ a\ la\ propiedad\ x
+comment7.params=x
+comment7.target=void\ setX(java.lang.Integer)
+comment7.text=Metodo\ de\ modificaci\u00F3n\ a\ la\ propiedad\ x
+comment8.params=
+comment8.target=java.lang.String\ getEstado()
+comment8.text=Metodo\ de\ acceso\ a\ la\ propiedad\ estado
+comment9.params=estado
+comment9.target=void\ setEstado(java.lang.String)
+comment9.text=Metodo\ de\ modificaci\u00F3n\ a\ la\ propiedad\ estado
+numComments=10

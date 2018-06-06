@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Candidato()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Candidato\r\n
+comment1.params=nombre\ partido
+comment1.target=Candidato(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment2.text=Metodo\ de\ acceso\ a\ la\ propiedad\ nombre
+comment3.params=nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment3.text=Metodo\ de\ modificaci\u00F3n\ a\ la\ propiedad\ nombre
+comment4.params=
+comment4.target=java.lang.String\ getPartido()
+comment4.text=Metodo\ de\ acceso\ a\ la\ propiedad\ partido
+comment5.params=partido
+comment5.target=void\ setPartido(java.lang.String)
+comment5.text=Metodo\ de\ modificaci\u00F3n\ a\ la\ propiedad\ partido
+comment6.params=
+comment6.target=java.lang.Integer\ getVotos()
+comment6.text=Metodo\ de\ acceso\ a\ la\ propiedad\ votos
+comment7.params=votos
+comment7.target=void\ setVotos(java.lang.Integer)
+comment7.text=Metodo\ de\ modificaci\u00F3n\ a\ la\ propiedad\ votos
+comment8.params=
+comment8.target=void\ votar()
+numComments=9

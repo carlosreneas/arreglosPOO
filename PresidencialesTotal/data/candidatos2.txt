@@ -1,0 +1,3 @@
+Gustavo Petro,Colombia Humana,0,0,Petro
+Ivan Duque,Partido Centro Democratico,350,0,Duque
+Voto en Blanco,Voto en Blanco,176,332,VotoenBlanco
